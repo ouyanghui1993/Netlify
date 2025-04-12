@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://nas.ouyanghui.cn:8091/:splat"
+  status = 200
+  force = true
