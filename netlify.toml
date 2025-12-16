@@ -1,5 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://nas.ouyanghui.cn:8091/:splat"
+  to = "https://ouyanghui.xyz:5777/:splat"
   status = 200
   force = true
+
